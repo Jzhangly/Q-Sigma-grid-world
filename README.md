@@ -4,7 +4,7 @@ Q(sigma) algorithm on a simple grid world
 
 Environment parameters that can be changed:
 
-BOARD_ROWS = 5 <\br>
+BOARD_ROWS = 5 
 BOARD_COLS = 4
 WIN_STATE = (1, 2)
 LOSE_STATE = (3, 2)
